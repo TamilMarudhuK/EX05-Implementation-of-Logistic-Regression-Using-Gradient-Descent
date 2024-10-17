@@ -15,8 +15,6 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 3. Adjusts weights using gradient descent based on the difference between predicted and actual values.
 
 4. Returns class predictions based on the learned weights.
- 
-
 ## Program:
 ```
 /*
@@ -56,14 +54,9 @@ xnew=np.array([[0,87,0,95,0,2,78,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print("Predicted Result:",y_prednew)
 ```
-
 ## Output:
-
 ![WhatsApp Image 2024-10-04 at 21 13 11_3ffcf346](https://github.com/user-attachments/assets/7d3cfc1a-463f-4b40-9b39-c4814b288dd8)
 ![WhatsApp Image 2024-10-04 at 21 13 44_49407c67](https://github.com/user-attachments/assets/145bf365-63c8-48c8-86a3-9cc4ad4afbd3)
-
-
-
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
